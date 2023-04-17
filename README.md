@@ -3,13 +3,13 @@ Yüksek desibelli düdük sesine sahip android uygulama. Uygulamayı kullanırke
 <table>
 <tr>
 <td>
-  <img src="https://github.com/alikperislam/flutter_deprem_duduk_sesi/blob/main/1.jpg" width="150" height="300"> 
+  <img src="https://github.com/alikperislam/flutter_deprem_duduk_sesi/blob/main/1.jpg" width="180" height="350"> 
   </td>
 <td>
-  <img src="https://github.com/alikperislam/flutter_deprem_duduk_sesi/blob/main/2.jpg" width="150" height="300"> 
+  <img src="https://github.com/alikperislam/flutter_deprem_duduk_sesi/blob/main/2.jpg" width="180" height="350"> 
   </td>
 <td>
-  <img src="https://github.com/alikperislam/flutter_deprem_duduk_sesi/blob/main/3.jpg" width="150" height="300"> 
+  <img src="https://github.com/alikperislam/flutter_deprem_duduk_sesi/blob/main/3.jpg" width="180" height="350"> 
   </td>
 </tr>
 </table>
